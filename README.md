@@ -1,5 +1,5 @@
 <h1 align="center">🐧¡Hello There!🐧</h1>
-<h4 aling="center">Amante del cine software y la comida</h4>
+<h4 align="center">Amante del cine software y la comida</h4>
 
 <p align="center">
   <a href="https://letterboxd.com/roccagoolmozie/">
@@ -12,9 +12,9 @@
     <img src="https://img.icons8.com/fluency/48/000000/facebook.png" height="50" width="50" text-decoration="none">
   </a>
 
-## <picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture> **Sobre Mi**
+<h1 aling="center"><picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture>Sobre Mi<picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture></h1>
 
-<picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 500px></picture>
+<picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 300px height = 325px></picture>
 
 ```json
 {
@@ -32,4 +32,5 @@
     "ActoresFavoritos": ["Emma Stone", "Ryan Gosling", "Jake Gyllenhaal", "Anne Hathaway", "Leonardo DiCaprio"]
   }
 }
- 
+
+```

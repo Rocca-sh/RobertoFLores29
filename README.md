@@ -1,5 +1,5 @@
 <h1 align="center">🐧¡Hello There!🐧</h1>
-<h4 align="center">Amante del cine software y la comida</h4>
+<h4 align="center">Amante del Cine el Software y la Comida</h4>
 
 <h1 align="center" target="_blank"><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px>Sobre Mi<img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></h1>
 

@@ -17,10 +17,15 @@
 
 ```json
 {
-  nombre: "Roberto Flores"
-  estudios: "Ingenieria en Computacion"
+  nombre: "Roberto Flores",
+  estudios: "Ingenieria en Computacion",
   Aprendiendo:{
-    Lenguajes: ["java", "javaScript", "Css"]
-    Tecnologias: ["Git", "Bash"]
-    Sistemas Operativos Usados: ["Fedora", "Mint", "Arch Linux"]
-    Entornos De Escritorio y Twm: ["Hyperland","I3wm",""]
+    Lenguajes: ["java", "javaScript", "Css"],
+    Tecnologias: ["Git", "Bash"],
+    Sistemas Operativos Usados: ["Fedora", "Mint", "Arch Linux"],
+    Entornos De Escritorio y Twm: ["Hyperland","I3wm","Xfc4"]
+  },
+  Cine:{
+    PeliculasFacoritas: ["La La Land","Star Wars Episodio III The Revenge of the sith","Phatome Thread", "Gueros"],
+    DirectoresFavoritos: ["Damian Chezelle", "Alejandro Gonzales Iñarritu", "Denis Villanueve"],
+    ActoresFavoritos:["Emma Stone", "Ryan Gosling","Jake Gylenhall", "Anne Hataway"]    

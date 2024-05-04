@@ -1,7 +1,7 @@
 <h1 align="center">🐧¡Hello There!🐧</h1>
 <h4 align="center">Amante del cine software y la comida</h4>
 
-<h1 aling="center"><picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture>Sobre Mi<picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture></h1>
+<h1 align="center" target="_blank"><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px>Sobre Mi<img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></h1>
 
 <picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 300px height = 325px></picture>
 

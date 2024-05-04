@@ -24,7 +24,7 @@
 ```
 <picture> <img align="left" src="https://i.ytimg.com/vi/1eX3T4WluI4/hqdefault.jpg" width = 300px height = 325px></picture>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languajes:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center" target="_blank">Herramientas Preferidas:</h3>
 
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -59,14 +59,15 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
-  <h4>May the force be with you</h4>
-  <a href="https://letterboxd.com/roccagoolmozie/">
+</p>
+<h3 align="center" target="_blank">Redes Sociales:</h3>
+<p align="center">
+  <a href="https://letterboxd.com/roccagoolmozie/" target="_blank">
     <img src="https://a.ltrbxd.com/logos/letterboxd-mac-icon.png" height="50" width="50" text-decoration="none">
   </a>
-  <a href="https://www.instagram.com/robert0flores_/">
+  <a href="https://www.instagram.com/robert0flores_/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="50" width="50" text-decoration="none">
   </a>
-  <a href="https://www.facebook.com/robertoflores9295/">
+  <a href="https://www.facebook.com/robertoflores9295/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/facebook.png" height="50" width="50" text-decoration="none">
   </a>
-</p>

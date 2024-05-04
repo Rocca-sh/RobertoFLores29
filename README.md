@@ -1,17 +1,6 @@
 <h1 align="center">🐧¡Hello There!🐧</h1>
 <h4 align="center">Amante del cine software y la comida</h4>
 
-<p align="center">
-  <a href="https://letterboxd.com/roccagoolmozie/">
-    <img src="https://a.ltrbxd.com/logos/letterboxd-mac-icon.png" height="50" width="50" text-decoration="none">
-    </a>
-<a href="https://www.instagram.com/robert0flores_/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="50" width="50" text-decoration="none">
-  </a>
-<a href="https://www.facebook.com/robertoflores9295/">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" height="50" width="50" text-decoration="none">
-  </a>
-
 <h1 aling="center"><picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture>Sobre Mi<picture><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></picture></h1>
 
 <picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 300px height = 325px></picture>
@@ -62,6 +51,7 @@
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
+
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -69,6 +59,14 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
+  <h4>May the force be with you</h4>
+  <a href="https://letterboxd.com/roccagoolmozie/">
+    <img src="https://a.ltrbxd.com/logos/letterboxd-mac-icon.png" height="50" width="50" text-decoration="none">
+  </a>
+  <a href="https://www.instagram.com/robert0flores_/">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="50" width="50" text-decoration="none">
+  </a>
+  <a href="https://www.facebook.com/robertoflores9295/">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" height="50" width="50" text-decoration="none">
+  </a>
 </p>
-
-

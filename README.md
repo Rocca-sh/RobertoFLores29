@@ -1,4 +1,5 @@
 <h1 align="center">🐧¡Hello There!🐧</h1>
+<h4 aling="center">Amante del cine software y la comida</h4>
 
 <p align="center">
   <a href="https://letterboxd.com/roccagoolmozie/">
@@ -17,15 +18,18 @@
 
 ```json
 {
-  nombre: "Roberto Flores",
-  estudios: "Ingenieria en Computacion",
-  Aprendiendo:{
-    Lenguajes: ["java", "javaScript", "Css"],
-    Tecnologias: ["Git", "Bash"],
-    Sistemas Operativos Usados: ["Fedora", "Mint", "Arch Linux"],
-    Entornos De Escritorio y Twm: ["Hyperland","I3wm","Xfc4"]
+  "nombre": "Roberto Flores",
+  "estudios": "Ingeniería en Computación",
+  "Aprendiendo": {
+    "Lenguajes": ["Java", "JavaScript", "CSS"],
+    "Tecnologias": ["Git", "Bash"],
+    "Sistemas Operativos Usados": ["Fedora", "Mint", "Arch Linux"],
+    "Entornos De Escritorio y Twm": ["Hyperland", "I3wm", "Xfce4"]
   },
-  Cine:{
-    PeliculasFacoritas: ["La La Land","Star Wars Episodio III The Revenge of the sith","Phatome Thread", "Gueros"],
-    DirectoresFavoritos: ["Damian Chezelle", "Alejandro Gonzales Iñarritu", "Denis Villanueve"],
-    ActoresFavoritos:["Emma Stone", "Ryan Gosling","Jake Gylenhall", "Anne Hataway"]    
+  "Cine": {
+    "PeliculasFacoritas": ["La La Land", "Star Wars Episodio III The Revenge of the Sith", "Phantom Thread", "Güeros"],
+    "DirectoresFavoritos": ["Damian Chazelle", "Alejandro González Iñárritu", "Denis Villeneuve"],
+    "ActoresFavoritos": ["Emma Stone", "Ryan Gosling", "Jake Gyllenhaal", "Anne Hathaway", "Leonardo DiCaprio"]
+  }
+}
+ 

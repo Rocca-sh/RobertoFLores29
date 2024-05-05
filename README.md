@@ -5,8 +5,8 @@
 
 <picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 300px height = 325px></picture>
 
-```json
-{
+```js
+let SobreMi = {
   "nombre": "Roberto Flores",
   "estudios": "Ingeniería en Computación",
   "Aprendiendo": {

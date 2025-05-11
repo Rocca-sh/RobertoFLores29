@@ -10,7 +10,7 @@ let SobreMi = {
   "nombre": "Roberto Flores",
   "estudios": "Ingeniería en Computación",
   "Aprendiendo": {
-    "Lenguajes": ["Java", "JavaScript", "CSS"],
+    "Lenguajes": ["ninguno"],
     "Tecnologias": ["Git", "Bash"],
     "Sistemas Operativos Usados": ["Fedora", "Mint", "Arch Linux"],
     "Entornos De Escritorio y Twm": ["Hyperland", "I3wm", "Xfce4"]
